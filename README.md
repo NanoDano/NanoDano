@@ -12,7 +12,7 @@ If you want to read more details about me, visit my blog [www.devdungeon.com/con
 
 You can reach me via:
 
-- [nanodano@devdungeon.com](mailto:nanodano@devdungeon.com) - [My public GPG key](https://www.devdungeon.com/gpg)
+- [nanodano@devdungeon.com](mailto:nanodano@devdungeon.com) (email and xmpp) - [My public GPG key](https://www.devdungeon.com/gpg)
 - [DevDungeon.com Discord Server](https://www.devdungeon.com/discord) - NanoDano#9417
 
 
